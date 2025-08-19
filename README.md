@@ -12,7 +12,7 @@
 
 </div>
 
-# 🍽️ Food Demand Forecasting App
+# 🍽️ Food Demand Forecasting App.
 
 A Machine Learning powered web application built with Streamlit that predicts the number of orders for a meal in a given week based on historical data and input features. This app is especially useful for supply chain optimization and inventory planning in food delivery or distribution services. <br><br>
 
